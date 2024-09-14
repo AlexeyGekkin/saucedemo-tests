@@ -19,7 +19,7 @@
      ```bash
      cd d:\dev
      ```
-   - Клонируйте репозиторий с кодом теста с GitHub:
+   - Клонируйте репозиторий с кодом теста с GitHub и перейдите в папку проекта:
      ```bash
      git clone https://github.com/AlexeyGekkin/saucedemo-tests.git
      cd saucedemo-tests
