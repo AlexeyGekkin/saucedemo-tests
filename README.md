@@ -17,8 +17,8 @@
 2. **Клонируйте репозиторий**:
    - Клонируйте репозиторий с кодом теста с GitHub:
      ```bash
-     git clone https://github.com/вашеимяпользователя/ваш-репозиторий.git
-     cd ваш-репозиторий
+     git clone https://github.com/AlexeyGekkin/saucedemo-tests.git
+     cd saucedemo-tests
      ```
 
 3. **Создайте виртуальное окружение** (опционально, но рекомендуется):
