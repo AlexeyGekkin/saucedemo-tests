@@ -42,14 +42,14 @@
 
 4. **Установите зависимости**:
    - Установите необходимые Python-пакеты:
-   - **Windows**:
-     ```bash
-     venv\Scripts\python.exe -m pip install -r requirements.txt
-     ```
-   - **macOS/Linux**:
-     ```bash
-     pip install -r requirements.txt
-     ```
+     - **Windows**:
+       ```bash
+       venv\Scripts\python.exe -m pip install -r requirements.txt
+       ```
+     - **macOS/Linux**:
+       ```bash
+       pip install -r requirements.txt
+       ```
 5. **Запустите тест**:
    - Выполните тестовый скрипт с помощью Python:
      ```bash
