@@ -37,11 +37,16 @@
        ```
      - **macOS/Linux**:
        ```bash
-       source venv/bin/activate
+       source venv/Scripts/activate
        ```
 
 4. **Установите зависимости**:
    - Установите необходимые Python-пакеты:
+   - **Windows**:
+     ```bash
+     venv\Scripts\python.exe -m pip install -r requirements.txt
+     ```
+   - **macOS/Linux**:
      ```bash
      pip install -r requirements.txt
      ```
